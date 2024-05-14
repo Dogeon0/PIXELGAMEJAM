@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class HOLA2 : MonoBehaviour
+public class PlayerSpawner : MonoBehaviour
 {
     public GameObject playerPrefab; // Referencia al prefab del jugador
     public Transform spawnPoint;    // Punto de aparición del jugador
